@@ -38,4 +38,3 @@ jobs:
         artifact_name: zap_scan # optional, default is zap_scan
           
               
-gh-actions-DAST.yml
